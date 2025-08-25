@@ -33,21 +33,21 @@ The goal of this project is to visualize how expenses vary by week, category, an
 ### 1. Weekly Spending Analysis
 Shows total expenses grouped by week.
 
-![Spending by Week](images/day_spending_analysis.png)
+![Spending by Week](day_spending_analysis.png)
 
 ---
 
 ### 2. Spending by Category
 Visualizes expenses based on whether the purchase was made alone or with friends.
 
-![Spending by Category](images/spending_by_catagorypng.png)
+![Spending by Category](spending_by_catagorypng.png)
 
 ---
 
 ### 3. Daily Spending Pattern
 Tracks daily spending trends throughout the dataset.
 
-![Spending by Date](images/spending_by_date.png)
+![Spending by Date](spending_by_date.png)
 
 ---
 
